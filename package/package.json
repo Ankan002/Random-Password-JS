@@ -1,0 +1,14 @@
+{
+  "name": "random-password-generator",
+  "version": "1.0.0",
+  "description": "Can generate a random password suggestion of a given length",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random-password"
+  ],
+  "author": "Ankan",
+  "license": "MIT"
+}
