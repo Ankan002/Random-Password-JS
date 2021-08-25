@@ -1,5 +1,5 @@
 {
-  "name": "random-password-generator",
+  "name": "random-password-generator-infinite",
   "version": "1.0.0",
   "description": "Can generate a random password suggestion of a given length",
   "main": "index.js",
